@@ -1,0 +1,52 @@
+.container{
+    padding: 0 100px;
+}
+.logo {
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.div{
+    margin-top: 5px;
+}
+.search{
+    text-align: center;
+    background-color: #EEEEEE;
+    width: 99.66%;
+    
+}
+
+.box{
+    float:left;
+    width: 33%;
+    height: 80px;
+    text-align: center;
+    display:block;
+  
+    /* margin: auto; */
+   
+
+}
+
+.bg-color{
+    background-color: #7EE5DA;
+}
+.bg-color2{
+    background-color: #70ccc2;
+}
+.bg-color3{
+    background-color: #62B3AA;
+}
+.clear{
+    clear: both;
+}
+#Cop{
+    text-align: center;
+    font-size: 13px;
+    
+}
+
+.box{
+    margin-right:0.33%;
+    margin-top: 5px;
+}
